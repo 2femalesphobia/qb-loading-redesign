@@ -1,4 +1,4 @@
-# qb-loading-redesign-
+# qb-loading-redesign
 original https://github.com/qbcore-framework/qb-loading
 
 redesiged by 2femalesphobia
